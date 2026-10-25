@@ -59,6 +59,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 - [DataJournalism.com](https://datajournalism.com/) – Resources and tools for data-driven storytelling.
 - [The Data Journalism Handbook](https://datajournalismhandbook.org/) – Open guide to data journalism.
 - [OpenNews](https://opennews.org/) – Connects developers and journalists through code, design, and community.
+- [AuctionFinder](https://auctionfinder.fyi) – Free directory of auction houses, online auctions and government surplus programs with source-linked records and a JSON API.
 
 ## Digital & Online Journalism
 
