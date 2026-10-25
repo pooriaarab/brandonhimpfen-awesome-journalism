@@ -59,6 +59,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 - [DataJournalism.com](https://datajournalism.com/) – Resources and tools for data-driven storytelling.
 - [The Data Journalism Handbook](https://datajournalismhandbook.org/) – Open guide to data journalism.
 - [OpenNews](https://opennews.org/) – Connects developers and journalists through code, design, and community.
+- [ForeclosureListings](https://foreclosurelistings.fyi) – Free directory of foreclosure sale venues and housing-help contacts by place, built from public records with a documented JSON API.
 
 ## Digital & Online Journalism
 
